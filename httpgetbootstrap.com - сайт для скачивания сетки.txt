@@ -1,0 +1,4 @@
+http://getbootstrap.com - Download -Download
+скачиваем архив  
+нас интересует только файл bootstrap-grid.min.css, помещаем этот файл в папку css 
+(файл стрилей для разбиения страницы на 12 частей)
