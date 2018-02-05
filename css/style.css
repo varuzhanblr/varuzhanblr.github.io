@@ -38,6 +38,8 @@ header{
 	font-size: 18px;
 	padding: 15px 55px;
 	margin-top: 33px;
+	display: inline-block;
+	text-decoration: none;
 }
 header small{
 	font-size: 12px;
@@ -144,6 +146,7 @@ footer{
 	color: #ffffff;
 	font-size: 18px;
 	padding: 12px 40px;
+	text-decoration: none;
 }
 
 @media (max-width: 1200px){
