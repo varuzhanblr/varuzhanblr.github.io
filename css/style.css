@@ -41,6 +41,15 @@ header{
 	display: inline-block;
 	text-decoration: none;
 }
+.header-button:hover{
+	box-shadow: none;
+	-webkit-transition: 0.2s;
+	-moz-transition: 0.2s;
+	-ms-transition: 0.2s;
+	-o-transition: 0.2s;
+	transition: 0.2s;
+	
+}
 header small{
 	font-size: 12px;
 	display: block;
@@ -147,6 +156,15 @@ footer{
 	font-size: 18px;
 	padding: 12px 40px;
 	text-decoration: none;
+}
+.footer-button:hover{
+	background-color: #ffffff;
+	color: #3a7dfd;
+	-webkit-transition: 0.2s;
+	-moz-transition: 0.2s;
+	-ms-transition: 0.2s;
+	-o-transition: 0.2s;
+	transition: 0.2s;
 }
 
 @media (max-width: 1200px){
